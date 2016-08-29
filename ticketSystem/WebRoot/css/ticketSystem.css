@@ -1,0 +1,34 @@
+@charset "utf-8";
+a:hover{
+	text-decoration:none;
+}
+.highlight {
+	padding: 9px 14px;
+	background-color: #f7f7f9;
+	border: 1px solid #e1e1e8;
+	border-radius: 4px;
+}
+
+.inline{
+	display: inline-block;
+}
+
+.inline-left{
+	display: inline-block;
+	float: left;
+}
+.inline-right{
+	display: inline-block;
+	float: right;
+}
+
+.control-span{
+	padding: 6px 12px;
+    font-size: 14px;
+    display: block;
+    width: 100%;
+    height: 34px;
+}
+.thead-text-center th{
+	text-align: center;
+}
